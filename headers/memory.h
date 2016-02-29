@@ -9,7 +9,7 @@ Register I,II,III,IV,V,VI,VII;
 long * memory;
 
 void initiateMemory() {
-	memory = malloc( 0 );
+	//memory = malloc( 0*sizeof(long));
 }
 
 
